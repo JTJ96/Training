@@ -10,3 +10,4 @@ Oder was?
 -- Ny branch. Blablalbbla
 bla
 Virker ikke. Virker ikke. Virker ikke.
+Virker. Nu skal vi bare tilbage til master.
